@@ -12,7 +12,7 @@ Eg. 
 3D printing:
 - accurately detect smoke (Fire prevention).
 - Activation of the air extractor when a set threshold is met.
-- Halt printing in case of flammable gas detection.
+- Halt printing in presence of a flammable gas detection.
 - ...
 - 
 general-purpose air quality system. Creation of a system on which a person or institution can rely to report air quality on a general basis:
