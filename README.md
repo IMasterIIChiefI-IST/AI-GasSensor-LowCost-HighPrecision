@@ -1,7 +1,7 @@
 
 # AI-GasSensor-LowCost-HighPrecision
 
-This project is a simple close system that aims to improve the precision and usability of simple, cheap, commercial MQ MQ(or similar) gas sensors in conjunction with AI and machine learning to correlate data from an N array of MQ (or similar) sensors.
+This project is a simple close system that aims to improve the precision and usability of simple, cheap, commercial MQ (or similar) gas sensors in conjunction with AI and machine learning to correlate data from an N array of MQ (or similar) sensors.
 
 ## Description
 
