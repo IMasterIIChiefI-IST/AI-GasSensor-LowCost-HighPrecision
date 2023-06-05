@@ -19,12 +19,12 @@ General Porpose air quality system. Creation of a system that a person or instit
 
 We provide a HTML code for a graph that allow you to visualise the sensitivities (ppm) and to gases each sensor reacts to. Take into account the following point:
 
-# **(hypotetical - to be proven)** 
-#  - To increase accuracy for a certain type of gas, you must pick multiple (different) sensors that have the same sensitivity for the same gases.
-## In this case, the network would take into consideration the gain of a specific gas over multiple sensors (for the same ppm range) and be able to correlate precisely what gas is present with a more accurate measure.
+**(hypotetical - to be proven)** 
+- To increase accuracy for a certain type of gas, you must pick multiple (different) sensors that have the same sensitivity for the same gases.
+# In this case, the network would take into consideration the gain of a specific gas over multiple sensors (for the same ppm range) and be able to correlate precisely what gas is present with a more accurate measure.
 
-#  - To increase reading range, you must pick multiple (different) sensors that read the same gas over different ppm ranges.
-## In this case, the network would take into consideration the multiple gains over a large ppm range and be able to correlate that gas more quickly with a small increase in precision.
+- To increase reading range, you must pick multiple (different) sensors that read the same gas over different ppm ranges.
+# In this case, the network would take into consideration the multiple gains over a large ppm range and be able to correlate that gas more quickly with a small increase in precision.
 
 
 ## Getting Started
