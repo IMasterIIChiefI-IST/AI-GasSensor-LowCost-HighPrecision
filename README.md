@@ -17,14 +17,14 @@ General Porpose air quality system. Creation of a system that a person or instit
 
 ## Choosing the right Sensor for your application.
 
-We provide a HTML code for a graph that allow you to visualise the sensitivities (ppm) and to gases each sensor reacts to.
+We provide a HTML code for a graph that allow you to visualise the sensitivities (ppm) and to gases each sensor reacts to. Take into account the following point:
 
-(hypotetical - to be proven)
-To increase accuracy for a certain type of gas, you must pick multiple (different) sensors that have the same sensitivity for the same gases.
-   In this case, the network would take into consideration the gain of a specific gas over multiple sensors (for the same ppm range) and be able to correlate precisely what gas is present with a more accurate measure.
+# **(hypotetical - to be proven)** 
+#  - To increase accuracy for a certain type of gas, you must pick multiple (different) sensors that have the same sensitivity for the same gases.
+## In this case, the network would take into consideration the gain of a specific gas over multiple sensors (for the same ppm range) and be able to correlate precisely what gas is present with a more accurate measure.
 
-To increase reading range, you must pick multiple (different) sensors that read the same gas over different ppm ranges.
-   In this case, the network would take into consideration the multiple gains over a large ppm range and be able to correlate that gas more quickly with a small increase in precision.
+#  - To increase reading range, you must pick multiple (different) sensors that read the same gas over different ppm ranges.
+## In this case, the network would take into consideration the multiple gains over a large ppm range and be able to correlate that gas more quickly with a small increase in precision.
 
 
 ## Getting Started
@@ -58,6 +58,13 @@ Contributors names and contact info
 * 0.1
     * Initial Release
 
+## Task List
+
+- [x] Create a basic sensor sofware emulation
+- [ ] Create a full gas chamber sofware emulation (with gas emitors and venting to accuratly graph ppms over a multitute of cases)
+- [ ] Develop a Neural network to solve the problem and test multiple architectures
+- [ ] Implementation on a MicroController
+
 ## License
 
 This project is licensed under the GPL-3.0 License - see the LICENSE.md file for details
@@ -66,4 +73,4 @@ This project is licensed under the GPL-3.0 License - see the LICENSE.md file for
 
 Reversed enginnered to create a software gas sensor that will be used in a simulation to generate data to train the model.
 Used to create the calibration code to calibrate the sensor on the real envoirment.
-* [sandboxelectronics.com]-(https://sandboxelectronics.com/?p=165)
+[sandboxelectronics.com](https://sandboxelectronics.com/?p=165)
