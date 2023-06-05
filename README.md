@@ -52,5 +52,6 @@ This project is licensed under the GPL-3.0 License - see the LICENSE.md file for
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
+Reversed enginnered to create a software gas sensor that will be used in a simulation to generate data to train the model.
+Used to create the calibration code to calibrate the sensor on the real envoirment.
 * [sandboxelectronics.com]-(https://sandboxelectronics.com/?p=165)
