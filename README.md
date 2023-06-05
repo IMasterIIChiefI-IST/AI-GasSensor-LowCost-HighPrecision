@@ -17,8 +17,8 @@ Eg. 
 
 general-purpose air quality system. Creation of a system on which a person or institution can rely to report air quality on a general basis:
 - detection of gas leaks.
-- poor city air quality.
-- Automate gas venting mechanisms when gas is present (in institutions, buildings, parking lots, etc.).
+- Urban air quality monitoring.
+- Automate gas venting mechanisms when gas is present a.e.(in institutions, buildings, parking lots, etc.).
 - Fire prevention.
 - ...
 
