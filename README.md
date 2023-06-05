@@ -1,12 +1,12 @@
 
 # AI-GasSensor-LowCost-HighPrecision
 
-This project is a simple close system that aims to improve the precision and usability of simple cheap comercial  MQ(or similiar) gas sensors in conjuction with AI/Machine learning to correlate data from a N array of MQ(or similiar) sensors.
+This project is a simple close system that aims to improve the precision and usability of simple, cheap, commercial MQ MQ(or similar) gas sensors in conjunction with AI and machine learning to correlate data from an N array of MQ (or similar) sensors.
 
 ## Description
 
-Since there is a complete line up of cheap and usable gas sensors, we aim to create a closed system for a DIY market to make accurate reading and reportings about the general Air quality. 
-This system can also be applied to any general porpose eletronics in order to detect some malfunctions and or activate counter measures that improve air quality.
+Since there is a complete line-up of cheap and usable gas sensors, we aim to create a closed system for the DIY market to make accurate readings and reports about the general air quality.
+This system can also be applied to any general-purpose electronic device in order to detect malfunctions(safety) and activate countermeasures that improve air quality.
 
 Eg. 
 3D printing:
@@ -14,6 +14,18 @@ Accuratly detect of smokes;
 Activation of air extractor;
 
 General Porpose air quality system. Creation of a system that a person or institution can use to report air quality on general basis.
+
+## Choosing the right Sensor for your application.
+
+We provide a HTML code for a graph that allow you to visualise the sensitivities (ppm) and to gases each sensor reacts to.
+
+(hypotetical - to be proven)
+To increase accuracy for a certain type of gas, you must pick multiple (different) sensors that have the same sensitivity for the same gases.
+   In this case, the network would take into consideration the gain of a specific gas over multiple sensors (for the same ppm range) and be able to correlate precisely what gas is present with a more accurate measure.
+
+To increase reading range, you must pick multiple (different) sensors that read the same gas over different ppm ranges.
+   In this case, the network would take into consideration the multiple gains over a large ppm range and be able to correlate that gas more quickly with a small increase in precision.
+
 
 ## Getting Started
 
