@@ -13,7 +13,7 @@ Eg.
 - Accuratly detect of smokes
 - Activation of air extractor
 
-General Porpose air quality system. Creation of a system that a person or institution can use to report air quality on general basis.
+general-purpose air quality system. Creation of a system on which a person or institution can rely to report air quality on a general basis.
 
 ## Choosing the right Sensor for your application.
 
