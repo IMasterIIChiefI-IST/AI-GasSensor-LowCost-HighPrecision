@@ -76,5 +76,5 @@ This project is licensed under the GPL-3.0 License - see the LICENSE.md file for
 
 ## Acknowledgments
 
-Reversed developed to create the first implementation of a gas sensor emulation in software. Copy of the calibration logic that will be part of Implementation on a MicroController.
+Reversed enginnered to create the first implementation of a gas sensor emulation in software. Copy of the calibration logic that will be part of Implementation on a MicroController.
 [sandboxelectronics.com](https://sandboxelectronics.com/?p=165)
