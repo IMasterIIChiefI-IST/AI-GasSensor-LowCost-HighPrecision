@@ -9,11 +9,11 @@ Since there is a complete line-up of cheap and usable gas sensors, we aim to cre
 This system can also be applied to any general-purpose electronic device in order to detect malfunctions(safety) and activate countermeasures that improve air quality.
 
 Eg. 
-3D printing:
-Accuratly detect of smokes;
-Activation of air extractor;
+# 3D printing:
+## Accuratly detect of smokes;
+## Activation of air extractor;
 
-General Porpose air quality system. Creation of a system that a person or institution can use to report air quality on general basis.
+# General Porpose air quality system. Creation of a system that a person or institution can use to report air quality on general basis.
 
 ## Choosing the right Sensor for your application.
 
