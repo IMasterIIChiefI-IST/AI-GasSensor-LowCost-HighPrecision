@@ -24,7 +24,7 @@ general-purpose air quality system. Creation of a system on which a person or in
 
 ## Choosing the right Sensor for your application.
 
-We provide a HTML code for a graph ((graph2.rar) The compression (.rar) of this file was necessary due to HTML having the required images encoded in base64 in it) that allow you to visualise the sensitivities (ppm) and to gases each sensor reacts to. Take into account the following point:
+We provide a HTML code for a graph [(graph2.rar) The compression (.rar) of this file was necessary due to HTML having the required images encoded in base64 in it] that allow you to visualise the sensitivities (ppm) and to gases each sensor reacts to. Take into account the following point:
 
 **(hypotetical - to be proven)** 
 - To increase accuracy for a certain type of gas, you must pick multiple (different) sensors that have the same sensitivity for the same gases.(In this case, the network would take into consideration the gain of a specific gas over multiple sensors (for the same ppm range) and be able to correlate precisely what gas is present with a more accurate measure.)
