@@ -14,7 +14,7 @@ Eg. 
 - Activation of the air extractor when a set threshold is met.
 - Halt printing in presence of a flammable gas detection.
 - ...
-- 
+
 general-purpose air quality system. Creation of a system on which a person or institution can rely to report air quality on a general basis:
 - detection of gas leaks.
 - poor city air quality.
@@ -66,7 +66,8 @@ Contributors names and contact info
 
 ## Task List
 
-- [x] Create a basic sensor sofware emulation
+- [x] Create a basic sensor sofware emulation (MQ-2, MQ-5 , MQ-9 and MQ 135)
+- [ ] Implement the complete line-up for the MQ sensors
 - [ ] Create a full gas chamber sofware emulation (with gas emitors and venting to accuratly graph ppms over a multitute of cases)
 - [ ] Develop a Neural network to solve the problem and test multiple architectures
 - [ ] Implementation on a MicroController
