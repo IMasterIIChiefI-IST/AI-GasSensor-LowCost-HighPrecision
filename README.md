@@ -10,10 +10,17 @@ This system can also be applied to any general-purpose electronic device in orde
 
 Eg. 
 3D printing:
-- Accuratly detect of smokes
-- Activation of air extractor
+- Accuratly detect of smokes.
+- Activation of air extractor when a set tresshold is present.
+- Halt printing in case of flamable gas detection.
+- ...
 
-general-purpose air quality system. Creation of a system on which a person or institution can rely to report air quality on a general basis.
+general-purpose air quality system. Creation of a system on which a person or institution can rely to report air quality on a general basis:
+- detection of gas leaks.
+- poor city air quality.
+- Automate gas venting mechanisms when gas is present (in institutions, buildings, parking lots, etc.).
+- Fire detection.
+- ...
 
 ## Choosing the right Sensor for your application.
 
