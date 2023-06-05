@@ -8,18 +8,18 @@ This project is a simple close system that aims to improve the precision and usa
 Since there is a complete line-up of cheap and usable gas sensors, we aim to create a closed system for the DIY market to make accurate readings and reports about the general air quality.
 This system can also be applied to any general-purpose electronic device in order to detect malfunctions(safety) and activate countermeasures that improve air quality.
 
-Eg. 
+Eg. 
 3D printing:
-- Accuratly detect of smokes.
-- Activation of air extractor when a set tresshold is present.
-- Halt printing in case of flamable gas detection.
+- accurately detect smoke (Fire prevention).
+- Activation of the air extractor when a set threshold is met.
+- Halt printing in case of flammable gas detection.
 - ...
-
+- 
 general-purpose air quality system. Creation of a system on which a person or institution can rely to report air quality on a general basis:
 - detection of gas leaks.
 - poor city air quality.
 - Automate gas venting mechanisms when gas is present (in institutions, buildings, parking lots, etc.).
-- Fire detection.
+- Fire prevention.
 - ...
 
 ## Choosing the right Sensor for your application.
