@@ -28,7 +28,7 @@ We provide a HTML code for a graph (graph.rar) to aid visualization of the sensi
 (The compression (.rar) of this file was necessary due to HTML having the required images encoded in base64 in it)
 
 **(hypotetical - to be proven)** 
-- To increase accuracy for a certain type of gas, you must pick multiple (different) sensors that have the same sensitivity for the same gases.(In this case, the network would take into consideration the gain of a specific gas over multiple sensors (for the same ppm range) and be able to correlate precisely what gas is present with a more accurate measure.)
+- To increase accuracy for a certain type of gas, you must pick multiple (different) sensors that have the same sensitivity for the same gases.(In this case, the network would take into consideration the multiple gain of a specific gas over the multiple sensors (for the same ppm range) and be able to correlate precisely what gas is present with a more accurate measure.)
 
 - To increase reading range, you must pick multiple (different) sensors that read the same gas over different ppm ranges.(In this case, the network would take into consideration the multiple gains over a large ppm range and be able to correlate that gas more quickly with a small increase in precision.)
 
